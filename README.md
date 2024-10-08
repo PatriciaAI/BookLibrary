@@ -21,7 +21,7 @@ Technologies
 
 1. Clone the repository if uploaded on git or download zipfile
 ```bash
-git clone https://github.com/patriciaimoyera/book-library-api.git
+git clone https://github.com/PatriciaAI/BookLibrary.git
 cd book-library-api
 ```
 
